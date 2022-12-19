@@ -1,5 +1,5 @@
-//Vamos escrever um arquivo mestres que define uma classe de ponteiros smart para alocação de memória dinâmica
-//Usaremos as funções malloc() e realloc() originalemente disponíveis em C
+//Vamos escrever um arquivo mestre que define uma classe de ponteiros smart para alocação de memória dinâmica
+//Usaremos as funções malloc() e realloc() originalmente disponíveis em C e templates para implementação da classe de smartpointers
 
 
 /*Cabeçalho*/
