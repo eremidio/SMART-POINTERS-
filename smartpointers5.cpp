@@ -2,7 +2,7 @@
 
 /*Cabeçalho*/
 #include<iostream>
-#include"smartpointer2.hpp"
+#include"smartpointer_class.hpp"
 using namespace std;
 
 int main(){
